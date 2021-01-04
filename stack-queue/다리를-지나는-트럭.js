@@ -64,4 +64,4 @@ function solution(bridge_length, weight, truck_weights) {
 // console.log(solution(100, 100, [10]));  // 101
 // console.log(solution(100, 100, [10, 10, 10, 10, 10, 10, 10, 10, 10, 10])); // 110
 
-
+// 알고리즘을 작성할 때는 디테일한 순서가 중요함.
